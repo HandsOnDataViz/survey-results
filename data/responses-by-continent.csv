@@ -1,11 +1,12 @@
 ﻿"HandsOnDataViz reader survey responses by continent, as of 28 October 2020",,
 continent,responses,percent of subtotal
-North America,782,30%
-Asia,904,35%
-Europe,510,20%
-South America,168,6%
-Africa,147,6%
-Oceania,81,3%
-subtotal,2592,100%
-no geocoded data,,
-total,,
+Asia,936,34
+North America,836,31
+Europe,541,20
+South America,170,6
+Africa,163,6
+Oceania,89,3
+geocoded but falling outside of continents polygons,0,0
+subtotal,2735,
+no geocoded data,299,
+total,3034,
